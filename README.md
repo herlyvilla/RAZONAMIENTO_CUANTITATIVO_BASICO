@@ -1,1 +1,1 @@
-# Razonamiento-Cuantitativo-B-sico
+#RAZONAMIENTO_CUANTITATIVO_BASICO
